@@ -1,5 +1,5 @@
 # telecom_dashboard_app.py
-pip install seaborn
+
 try:
     import streamlit as st
 except ModuleNotFoundError:
